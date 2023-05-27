@@ -1,0 +1,35 @@
+{
+    "name": "tong_er_dokaan",
+    "short_name": "tong_er_dokaan",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "TongErDokaan is a food cart rental platform designed to connect aspiring entrepreneurs with available food carts for rent in Bangladesh. With a user-friendly interface, users can browse through a wide selection of food carts, each offering unique culinary experiences. The platform also provides financial support options through partnerships with banks and insurance providers, enabling individuals to easily access SMB loans and grants. Additionally, TongErDokaan ensures the success of its users by closely monitoring the operations of each food cart, ensuring compliance with health and safety standards. Start your food cart business journey with TongErDokaan and make your entrepreneurial dreams a reality.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
